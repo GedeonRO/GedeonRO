@@ -4,7 +4,7 @@
 
 ### software developper 
 
-![image](https://github.com/GedeonRO/GedeonRO/assets/81752325/fb13af50-652b-465d-abbc-25d194c90ff3)
+
 
 
 
