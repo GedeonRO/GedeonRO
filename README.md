@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### I'm gedeon 
+
+### software developper 
+
+![image](https://github.com/GedeonRO/GedeonRO/assets/81752325/fb13af50-652b-465d-abbc-25d194c90ff3)
+
+
+
+
 <!--
 **GedeonRO/GedeonRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
